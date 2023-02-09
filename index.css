@@ -1,0 +1,22 @@
+.submit-button {
+  background-color: pink;
+  border-style: solid;
+  border-width: inherit;
+}
+
+.join-button {
+  background-color: cadetblue;
+  border-style: solid;
+  border-width: inherit;
+}
+
+.button-ele {
+  height: 40px;
+  width: 80px;
+  border-width: 0ch;
+}
+
+em {
+  color: crimson;
+  font-style: italic;
+}
